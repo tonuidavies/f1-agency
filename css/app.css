@@ -31,12 +31,14 @@ html{
 .intro {color:#777;
     font-style:italic;
     margin:10px 0;}
+/*
 .menu {background:#00a;
     color:#fff;
     height:40px;
     line-height:40px;
     letter-spacing:1px;
     width:100%;
+*/
 }
 .content {
     margin-top:10px;
@@ -53,11 +55,15 @@ html{
 
 
 
+/*
 .menu{
 
     padding-top: 0;
     margin-top: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+
 }
+*/
 .row2{
     height: 20rem;
     width: 100%;
@@ -67,6 +73,7 @@ html{
     display: inline;
     font-family: 'Poiret One', cursive;
 }
+/*
 ul {
     list-style-type: none;
     margin: 0;
@@ -94,6 +101,10 @@ li a {
 
 li a:hover:not(.active) {
     background-color: #111;
+    text-decoration-line: underline;
+    color: red;
+    text-decoration: underline;
+*/
 }
 .p{
     padding: 2px;
@@ -102,6 +113,7 @@ li a:hover:not(.active) {
 .active {
     background-color: #33adff;
 }
+/*
 .one{
     height: 10%;
     background-color:grey;
@@ -127,6 +139,7 @@ li a:hover:not(.active) {
     background-color:grey;
     border-right: 3em solid black;
      color: white;
+*/
 }
 /*
 .row3{
